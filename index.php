@@ -11,7 +11,7 @@ require 'backend/create_note.php';
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<title>WRCProject</title>
+	<title>FQWProject</title>
 
 </head>
 <body>
@@ -20,7 +20,7 @@ require 'backend/create_note.php';
 			<!--NAVIGATION-->
 			<div class="col-12 navigation">
 				<nav class="navbar navbar-light bg-light">
-					<a href="index.php" class="navbar-brand">WRCProject</a>
+					<a href="index.php" class="navbar-brand">FQWProject</a>
 					<form id="search" class="form-inline">
 						<input class="form-control mr-sm-2" type="search" aria-label="Search">
 						<button class="btn btn-warning my-2 my-sm-0" type="submit">Поиск</button>
